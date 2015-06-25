@@ -1,0 +1,1 @@
+I wrote a blog post about this talk [here](http://kylejm.io/posts/University-Group-Project-Experience/).
