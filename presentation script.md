@@ -1,8 +1,8 @@
 Hello, my name's Kyle.
 
-Alex asked if I would like to come and share my expericences on our group module, to which it's apparent by me being here that I said yes!
+Alex asked if I would like to come and share my experiences on our group module, to which it's apparent by me being here that I said yes!
 
-I'm going to be real quick with running through my experince, I've only got 12 mins. If there's anything extra you'd like to know, please grab me at the end.
+I'm going to be real quick with running through my experience, I've only got 12 mins. If there's anything extra you'd like to know, please grab me at the end.
 
 
 # Format
@@ -61,11 +61,11 @@ The bad points that I have about the module are more aimed at it's spec and the 
 
 # Picking teams
 
-In our module, we weren't allowed to pick our own teams, they were picked for us. The reason that this is bad, is that some high aspiring and driven students get paired with some students that aren't. This wastes their opporunity to learn all the good things that I have just described. They spend most of their time encouraging members of their team to work, which of course woundn't happen in the real world since those people would likely get sacked after a few warnings of their lack of contribution.
+In our module, we weren't allowed to pick our own teams, they were picked for us. The reason that this is bad, is that some high aspiring and driven students get paired with some students that aren't. This wastes their opportunity to learn all the good things that I have just described. They spend most of their time encouraging members of their team to work, which of course wouldn't happen in the real world since those people would likely get sacked after a few warnings of their lack of contribution.
 
-You could say that it gives them a chance to practicie managing motivation of their team, and I think you'd be right. But there's a balance. If the student is unable to inject motivation into their low aspiring team members for the duration of the module, then there's not much more that they'll take from it other than feeling like they've moaned at people and done all the work for a whole semster.
+You could say that it gives them a chance to practice managing motivation of their team, and I think you'd be right. But there's a balance. If the student is unable to inject motivation into their low aspiring team members for the duration of the module, then there's not much more that they'll take from it other than feeling like they've moaned at people and done all the work for a whole semester.
 
-The only way to deal with this is to allow students to pick their teams, or at group together the groups with people matching their ability and motivation. That's half hard to guage becasue universties to have a scale or grade for motivation.
+The only way to deal with this is to allow students to pick their teams, or at group together the groups with people matching their ability and motivation. That's half hard to gauge because universities to have a scale or grade for motivation.
 
 If students are paired with other students that are motivated, for the most part it won't matter about either students ability. But when a high aspiring student is put with people that don't care, it wastes their prospects.
 
@@ -75,7 +75,7 @@ In my marking scheme, each member of the team had to state their contribution ou
 
 This is unfair. It's unfair because if you have 5 students, and each student takes an equal chunk of the work, and one doesn't deliver, although the student that didn't deliver will get penalised, the whole team will now be missing a 5th of their deliverables, and therefore will lose marks because of lazy member of their team.
 
-To solve this, I would suggest that each member of the team gets together at the start, agrees and formally specifies their responsibilies, and then shares them with their lectures. Then each person can be marked on their deliverables. The downside of this may mean that some of the team aspect is lost since each person is now essentially working for themselves and their own mark. But I would argue, in the case of a software project, that each persons work still relies on another's becasue they have to connect and integrate together, yet they still won't get penalised if the person they should be integrating with doesn't do their work.
+To solve this, I would suggest that each member of the team gets together at the start, agrees and formally specifies their responsibilities, and then shares them with their lectures. Then each person can be marked on their deliverables. The downside of this may mean that some of the team aspect is lost since each person is now essentially working for themselves and their own mark. But I would argue, in the case of a software project, that each persons work still relies on another's because they have to connect and integrate together, yet they still won't get penalised if the person they should be integrating with doesn't do their work.
 
 # Distinct roles
 
@@ -83,10 +83,10 @@ Finding distinct roles was hard in the case of my group. We had too many people 
 
 # To improve
 
-Next time, I would love to pick my own team above anything. I started off the module very excited at the prospect of building my first application with a team. But a few weeks in, I noticed that a few of the other students didn't really care about software and didn't get invloved to contribute. They often left me to organise and chase up most things.
+Next time, I would love to pick my own team above anything. I started off the module very excited at the prospect of building my first application with a team. But a few weeks in, I noticed that a few of the other students didn't really care about software and didn't get involved to contribute. They often left me to organise and chase up most things.
 
-I'd also spend more time at the start clearly defineing who's doing what and when it's due by. I did make it very clear with my team as to what each of use are doing, which was decided by us all, and their dealines, and the penalty in terms of contribution percentage for not meeting them. I wish I'd have identified the motivation and independace of my team ealier so I could have been stricter with chasing up. As a result of not doing this, I spent time at the end of the project rushing to complete other people's features before our VIVA.
+I'd also spend more time at the start clearly defining who's doing what and when it's due by. I did make it very clear with my team as to what each of use are doing, which was decided by us all, and their deadlines, and the penalty in terms of contribution percentage for not meeting them. I wish I'd have identified the motivation and independence of my team earlier so I could have been stricter with chasing up. As a result of not doing this, I spent time at the end of the project rushing to complete other people's features before our VIVA.
 
 # Conclude
 
-Group project is a fantastic module, and one that solidfies many of the things students have learnt over their course, and gives them a chance to learn improtant communication skills that will help them shine once they leave university.
+Group project is a fantastic module, and one that solidifies many of the things students have learnt over their course, and gives them a chance to learn important communication skills that will help them shine once they leave university.
